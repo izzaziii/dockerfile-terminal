@@ -5,7 +5,7 @@ Lightweight Terminal Application
 ### First-time usage
 Build the image with the below command:
 ```shell
-docker build -t ubuntu-terminal
+docker build -t ubuntu-terminal .
 ```
 
 Run the image with:
